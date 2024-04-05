@@ -1,7 +1,7 @@
 <!-- Intro -->
 ### Hi there 😏
 <p>
-  I'm <b>iOS Developer</b> in charge of App Security Solution.<br/><br/>
+  I'm <b>iOS Developer</b><br/><br/>
 </p>
 
 
@@ -32,5 +32,5 @@
 
 <p>
   <a href="https://jaebinsim.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-	<a href="mailto:tesla@korea.ac.kr" target="_blank"><img src="https://img.shields.io/badge/tesla@korea.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+	<a href="mailto:simjabin@gmail.com" target="_blank"><img src="https://img.shields.io/badge/simjabin@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
