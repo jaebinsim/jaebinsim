@@ -2,13 +2,14 @@
 <h2>Hi there 👋</h2>
 <p>
   I'm <b>Jaebin Sim</b><br/>
-  <b>iOS Security Engineer</b> focused on<br/>
-  MCP-based Smart Home systems, LLM pipelines, and Siri Shortcuts automation.
+  <b>iOS Security Engineer</b> with a strong interest in<br/>
+  system-level architecture, LLM pipelines, and voice-driven automation.
 </p>
 
 <p>
-  I design systems where <b>voice → LLM → control plane → real devices</b><br/>
-  work seamlessly, without locking into a single vendor.
+  Recently, I've been working on <b>MCP-based smart home systems</b>,<br/>
+  connecting <b>Siri Shortcuts, LLMs, and real-world devices</b><br/>
+  through a vendor-agnostic control plane.
 </p>
 
 <!-- Tech Stacks -->
