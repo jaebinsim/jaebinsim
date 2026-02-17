@@ -33,19 +33,6 @@
   <img src="https://img.shields.io/badge/Reverse%20Engineering-darkred?style=flat-square"/>
 </p>
 
-<h2>🚀 Featured Project</h2>
-
-<p>
-  <b>🛰️ IntentCP (Intent Control Plane)</b><br/>
-  An intent-driven control plane that converts natural language into <br/>
-  <b>deterministic Control URLs</b>, using iOS Shortcuts as a lightweight frontend.
-</p>
-<p>
-  <a href="https://github.com/jaebinsim/IntentCP" target="_blank">
-    👉 <b>View IntentCP on GitHub</b>
-  </a>
-</p>
-
 <h2>🤞 Contact</h2>
 
 <p>
